@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Aaron Zhu
+	email = yulinzhu@uvic.ca
+# Please adapt and uncomment the following lines:
+#	name = Aaron Zhu
+#	email = aaronzhu@w134-87-138-166.wireless.uvic.ca

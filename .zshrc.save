@@ -1,0 +1,7 @@
+alias g++='/usr/local/bin/g++-11 -std=c++11'
+alias g++='/usr/local/bin/g++-11 -std=c++11'
+alias g++='/opt/homebrew/bin/g++-14 -std=c++11'
+alias g++='/opt/homebrew/bin/g++-14 -std=c++11'
+alias g++='/opt/homebrew/bin/g++-14 -std=c++11'
+alias g++='/opt/homebrew/bin/g++-13'
+
